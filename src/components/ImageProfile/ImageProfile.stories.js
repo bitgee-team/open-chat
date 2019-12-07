@@ -17,4 +17,3 @@ export const ImagenProfile2 = () => (
     <ImageProfile url={image2}/>
   </div>
 );
-
