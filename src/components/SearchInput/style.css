@@ -1,0 +1,14 @@
+.SearchInput {
+  width: 100%;
+  border: 1px solid #e4e4e4;
+  border-radius: 50px;
+}
+
+.SearchInput input {
+  width: calc(100% - 20px);
+  padding: 10px ;
+  border-radius: 50px;
+  height: 20px;
+  border-style: none;
+  outline: none;
+}
