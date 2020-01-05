@@ -1,0 +1,20 @@
+.container input {
+  background: transparent;
+
+  border: 1px solid var(--border);
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #2C2D2D;
+  width: 100%;
+  color: #fff;
+  outline: none;
+  font-size: 16px;
+}
+
+.container {
+  border-bottom: 1px solid var(--border);
+  display: flex;
+  flex-direction: row;
+  padding: 15px;
+  flex: 1;
+}

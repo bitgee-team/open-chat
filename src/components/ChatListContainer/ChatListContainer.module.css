@@ -1,0 +1,7 @@
+.content {
+  background-color: var(--dark-3);
+
+  overflow: auto;
+  height: calc(100vh -  var(--app-margin) - var(--app-margin) - 71px);
+
+}
