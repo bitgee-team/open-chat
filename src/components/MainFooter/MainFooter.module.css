@@ -1,0 +1,6 @@
+.container {
+  display: flex;
+  background-color: var(--dark-3);
+  height: 75px;
+  border-top: 1px solid #2b2b2bf2;
+}
