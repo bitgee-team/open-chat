@@ -3,12 +3,18 @@
   height: 70px;
   display: flex;
   cursor: pointer;
+  text-decoration: none;
+  color: white;
+}
+
+.active, .container.active:hover {
+  background-color: #222222;
 }
 
 
 
 .container:hover{
-  background-color: #222222;
+  background-color: #363636;
 }
 
 .content {
